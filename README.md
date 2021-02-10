@@ -2,6 +2,11 @@
 
 > Personalize your linux setup for dark souls vibes
 
+<p align="center">
+  <img width="510" height="67" src="dock_bar.png">
+</p>
+
+
 ### How to setup
 
  - Download this repo, and run `update_icons.sh`
